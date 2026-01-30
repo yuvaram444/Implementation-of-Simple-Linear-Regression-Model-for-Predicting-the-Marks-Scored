@@ -9,10 +9,10 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1. Load the dataset into a DataFrame and explore its contents to understand the data structure.
-2.Separate the dataset into independent (X) and dependent (Y) variables, and split them into training and testing sets.
-3.Create a linear regression model and fit it using the training data.
-4.Predict the results for the testing set and plot the training and testing sets with fitted lines.
-5.Calculate error metrics (MSE, MAE, RMSE) to evaluate the model’s performance.
+2. Separate the dataset into independent (X) and dependent (Y) variables, and split them into training and testing sets.
+3. Create a linear regression model and fit it using the training data.
+4. Predict the results for the testing set and plot the training and testing sets with fitted lines.
+5. Calculate error metrics (MSE, MAE, RMSE) to evaluate the model’s performance.
 
 
 ## Program:
@@ -110,8 +110,10 @@ Predicted values:
 Actual values:
 [20 27 69 30 62 35 24 86 76]
 ```
-![image](https://github.com/user-attachments/assets/58f59e5a-52c8-44ee-b87b-925432d63ff1)
-![image](https://github.com/user-attachments/assets/e24dea01-3384-4f33-b23c-a4dd794b4ab9)
+<img width="759" height="563" alt="image" src="https://github.com/user-attachments/assets/c93d702c-6938-4df5-891f-20ef3b339df4" />
+
+<img width="765" height="571" alt="image" src="https://github.com/user-attachments/assets/2e2b4a9a-5836-4541-8e67-9be9ab6984df" />
+
 ```
 Mean Squared Error (MSE) = 25.463280738222547
 Mean Absolute Error (MAE) = 4.691397441397438
